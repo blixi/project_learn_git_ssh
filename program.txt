@@ -7,6 +7,6 @@ def greeting():
 def today():
 	print("27.10.2021")
 
-def pi():
-	print("Pi is smaller than 3.2")
+def clara():
+	print("Clara")
 
