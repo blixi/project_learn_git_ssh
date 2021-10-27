@@ -7,13 +7,18 @@ def greeting():
 def today():
 	print("27.10.2021")
 
-<<<<<<< HEAD
 def clara():
 	print("Clara")
-=======
+
 def Eva():
 	print("Eva's function")
->>>>>>> e44d20e8c8f5a3660b40bfa7a2db422ac833c19d
+
+
+def Eva2():
+	print("Eva's function two")
+
+
+
 
 def clara2()
 	print("clara 2")
