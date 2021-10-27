@@ -11,3 +11,5 @@ def Eva():
 	print("Evas function")
 
 
+def clara()
+	print("Claras function yaa")
