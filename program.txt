@@ -7,10 +7,4 @@ def greeting():
 def today():
 	print("27.10.2021")
 
-def Eva():
-	print("Eva's function")
-
-def clara():
-	print("Clara")
-
 
