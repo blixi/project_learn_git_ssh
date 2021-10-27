@@ -9,3 +9,4 @@ def today():
 
 def pi():
 	print("Pi is smaller than 3.2")
+
