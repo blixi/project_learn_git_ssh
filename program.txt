@@ -21,7 +21,12 @@ def Eva2():
 	print("Eva's function two")
 
 
-
-
 def clara2()
 	print("clara yayayaayyay")
+
+	print("clara 2")
+
+def Function():
+	print("This is working")
+
+
