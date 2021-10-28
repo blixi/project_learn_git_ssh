@@ -1,6 +1,9 @@
 a = 1
 b = 2.3
 
+def new():
+	print("new stuff from clara")
+
 def greeting():
 	print("Hello")
 
